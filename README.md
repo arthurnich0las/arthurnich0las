@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, meu nome é *Arthur Nicholas* e esse é meu perfil no GitHub.
 
-<!--
-**arthurnich0las/arthurnich0las** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Atualmente estudando Ciência da Computação na UFAL (Universidade Federal de Alagoas).
+- 😀 Entusiasta da área da automação.
+- 📗 Estudando C
+- 📗 Estudando Python
+- 📗 Estudando MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/arthurnich0las">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&langs_count=7&theme=dracula"/>
+</div>
