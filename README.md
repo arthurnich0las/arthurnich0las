@@ -5,3 +5,4 @@ Olá, meu nome é *Arthur Nicholas* e esse é meu perfil no GitHub.
 - 📗 Estudando C
 - 📗 Estudando Python
 - 📗 Estudando MySQL
+- ✍️ Inglês Avançado
