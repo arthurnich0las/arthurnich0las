@@ -12,12 +12,12 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&hide_border=true&title_color=75DDDD&text_color=75DDDD&bg_color=272932" />
+  <img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
+  <img width="400px" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&hide_border=true&title_color=75DDDD&text_color=75DDDD&bg_color=272932" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthurnich0las&theme=react&row=2&no-bg=true&column=3&margin-w=55&margin-h=25" />
+  <img width="450px" height="300px"  src="https://github-profile-trophy.vercel.app/?username=arthurnich0las&theme=react&row=2&no-bg=true&column=3&margin-w=55&margin-h=25" />
 </p>
 <div align="center">  
 <a href="mailto:arthurn0606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
