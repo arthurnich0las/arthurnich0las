@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-  <img width="400px" height="300px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
+  <img width="500px" height="300px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
   <img width="400px" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&hide_border=true&title_color=75DDDD&text_color=75DDDD&bg_color=272932" />
 </div>
 
