@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&hide_border=true&title_color=75DDDD&text_color=75DDDD&bg_color=272932" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&hide_border=true&title_color=75DDDD&text_color=75DDDD&bg_color=272932" />
 </div>
 <div align="center">  
 <img width="70%" height="350px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurnich0las&theme=react" />
