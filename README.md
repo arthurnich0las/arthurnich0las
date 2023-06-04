@@ -12,27 +12,23 @@
 
 
 <div align="center">  
-  <img width="500px" height="300px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
-  <img width="400px" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&hide_border=true&title_color=75DDDD&text_color=75DDDD&bg_color=272932" />
+<img width="500px" height="310px" src="https://github-readme-stats.vercel.app/api?username=arthurnich0las&show_icons=true&count_private=true&hide_border=true&title_color=75DDDD&icon_color=75DDDD&text_color=75DDDD&bg_color=272932" alt="Nicholas Github Stats" /> 
+<img width="400px" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnich0las&layout=compact&hide_border=true&title_color=75DDDD&text_color=75DDDD&bg_color=272932"/>
 </div>
 
-<p align="center">
-  <img width="450px" height="300px"  src="https://github-profile-trophy.vercel.app/?username=arthurnich0las&theme=react&row=2&no-bg=true&column=3&margin-w=55&margin-h=25" />
-</p>
-<div align="center">  
-<a href="mailto:arthurn0606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-</div>
-  
-
-### Main skills:
+<h2 align='center'>
+  Main skills:
+</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117"></img>
 <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"></img>
 </div>
 
-### Tools:
+
+<h2 align='center'>
+  Tools:
+</h2>
 <div align="center">
-<img src=></img>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117"></img>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
 
@@ -45,22 +41,30 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></img>
 </div>
 
-### Other basic Knowledge:
+<h2 align='center'>
+  Other basic Knowledge:
+</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117"></img>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 </div>
   
-### Studying in this moment:
+<h2 align='center'>
+  Studying in this moment:
+</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></img>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><br>
+<br><p align="center"><b>Contact via email</b></p>  
+<a href="mailto:arthurn0606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{arthurnich0las}/count.svg" /></p> 
-<br></div>
+</div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
