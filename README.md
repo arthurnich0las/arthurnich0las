@@ -5,9 +5,8 @@
 </h1>
 
 <p align='center'>
-  Back-end student from Brazil.
+  Back-end developer from Brazil.
   <br>
-  Currently studying science computer at UFAL
 </p>
 
 <!--
