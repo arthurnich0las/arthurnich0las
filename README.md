@@ -59,8 +59,6 @@
 <br><p align="center"><b>Contact via email</b></p>  
 <a href="mailto:arthurn0606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arthurnich0las}/count.svg" /></p> 
 </div>
   
 
