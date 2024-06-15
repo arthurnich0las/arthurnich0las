@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align='center'>
-  Hey there, I'm Arthur 👨‍💻
-</h1>
-
+<h3 align='center'>Hey there, I'm Arthur 👨‍💻</h3>
 <p align='center'>
   Back-end developer from Brazil.
   <br>
