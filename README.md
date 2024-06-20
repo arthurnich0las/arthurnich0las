@@ -17,6 +17,7 @@
 </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117"></img>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117"></img>
 </div>
 
@@ -47,11 +48,9 @@
 </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></img>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img>
 </div>
 
 <div align="center">
-<br><br>
 <br><p align="center"><b>Contact via email</b></p>  
 <a href="mailto:arthurn0606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br>
