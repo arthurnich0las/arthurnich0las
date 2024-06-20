@@ -42,14 +42,15 @@
 <img src="https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117"></img>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 </div>
-  
+
+<!--
 <h2 align='center'>
   Currently studying:
 </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></img>
 </div>
-
+-->
 <div align="center">
 <br><p align="center"><b>Contact via email</b></p>  
 <a href="mailto:arthurn0606@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
