@@ -2,7 +2,7 @@
 
 <h2 align="center">Arthur Nicholas 👨‍💻</h2>
 <p align="center">
-  Back-end Developer | TypeScript Lover | Pythonista <br>
+  Back-end Developer <br>
   🇧🇷 Based in Brazil
 </p>
 
